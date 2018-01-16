@@ -12,7 +12,7 @@ function johnLennonFacts(array) {
       array[i] + "!!!";
       ++i;
   }
-  return array;
+  return array[i];
 }
 
 function iLoveTheBeatles(n) {
